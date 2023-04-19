@@ -1,0 +1,317 @@
+[
+    {
+        "id": 1,
+        "docEntry": 1,
+        "docNum": 1,
+        "docDate": "1/16/2023",
+        "postDate": "1/13/2023",
+        "series": "982",
+        "cardCode": "V00579",
+        "cardName": "PATEL CORPORATION",
+        "numAtCard": "7334",
+        "grnLines": [
+            {
+                "id": 0,
+                "docEntry": 1,
+                "lineNum": 0,
+                "itemCode": "A-004815",
+                "itemName": "M.S. HEX BOLT M5 x 8",
+                "warehouse": "IN-WEL-N",
+                "uomCode": "Manual",
+                "qty": "100.000000",
+                "location": "HOJIWALA"
+            },
+            {
+                "id": 1,
+                "docEntry": 1,
+                "lineNum": 1,
+                "itemCode": "A-004815",
+                "itemName": "HEX BOLT M5",
+                "warehouse": "IN-WEL-N",
+                "uomCode": "Manual",
+                "qty": "1.000000",
+                "location": "HOJIWALA"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "docEntry": 2,
+        "docNum": 2,
+        "docDate": "1/16/2023",
+        "postDate": "1/16/2023",
+        "series": "982",
+        "cardCode": "V00058",
+        "cardName": "NAVSHAKTI CORPORATION",
+        "numAtCard": "5897",
+        "grnLines": [
+            {
+                "id": 0,
+                "docEntry": 2,
+                "lineNum": 0,
+                "itemCode": "A-003064",
+                "itemName": "HEX NUT  7/16 \"",
+                "warehouse": "IN-WEL-N",
+                "uomCode": "Manual",
+                "qty": "50.000000",
+                "location": "HOJIWALA"
+            },
+            {
+                "id": 1,
+                "docEntry": 2,
+                "lineNum": 1,
+                "itemCode": "A-003064",
+                "itemName": "HEX NUT  7/16 \"",
+                "warehouse": "IN-WEL-N",
+                "uomCode": "Manual",
+                "qty": "50.000000",
+                "location": "HOJIWALA"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "docEntry": 3,
+        "docNum": 3,
+        "docDate": "1/16/2023",
+        "postDate": "1/16/2023",
+        "series": "982",
+        "cardCode": "V00058",
+        "cardName": "NAVSHAKTI CORPORATION",
+        "numAtCard": "5900",
+        "grnLines": [
+            {
+                "id": 0,
+                "docEntry": 3,
+                "lineNum": 0,
+                "itemCode": "A-004829",
+                "itemName": "PAN PHILLIPS HEAD SCREW M3 x 25",
+                "warehouse": "IN-WEL-N",
+                "uomCode": "Manual",
+                "qty": "1500.000000",
+                "location": "HOJIWALA"
+            },
+            {
+                "id": 1,
+                "docEntry": 3,
+                "lineNum": 1,
+                "itemCode": "A-004829",
+                "itemName": "PAN PHILLIPS HEAD SCREW M3 x 25",
+                "warehouse": "IN-WEL-N",
+                "uomCode": "Manual",
+                "qty": "1500.000000",
+                "location": "HOJIWALA"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "docEntry": 4,
+        "docNum": 4,
+        "docDate": "1/16/2023",
+        "postDate": "1/16/2023",
+        "series": "982",
+        "cardCode": "V00433",
+        "cardName": "GAYATRI PAINTS",
+        "numAtCard": "9224",
+        "grnLines": [
+            {
+                "id": 0,
+                "docEntry": 4,
+                "lineNum": 0,
+                "itemCode": "A-018176",
+                "itemName": "BOILER PAINT BLACK (GLOSSY)",
+                "warehouse": "CNS",
+                "uomCode": "Manual",
+                "qty": "140.000000",
+                "location": "HOJIWALA"
+            },
+            {
+                "id": 1,
+                "docEntry": 4,
+                "lineNum": 1,
+                "itemCode": "A-018176",
+                "itemName": "BOILER PAINT BLACK (GLOSSY)",
+                "warehouse": "CNS",
+                "uomCode": "Manual",
+                "qty": "140.000000",
+                "location": "HOJIWALA"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "docEntry": 5,
+        "docNum": 5,
+        "docDate": "1/16/2023",
+        "postDate": "1/11/2023",
+        "series": "982",
+        "cardCode": "V00651",
+        "cardName": "SATISH INDUSTRIES",
+        "numAtCard": "140",
+        "grnLines": [
+            {
+                "id": 0,
+                "docEntry": 5,
+                "lineNum": 0,
+                "itemCode": "A-022734",
+                "itemName": "TIMING PULLEY 48T x 8MMP x BORE 25MM",
+                "warehouse": "IN-WEL-N",
+                "uomCode": "Manual",
+                "qty": "5.000000",
+                "location": "HOJIWALA"
+            },
+            {
+                "id": 1,
+                "docEntry": 5,
+                "lineNum": 1,
+                "itemCode": "A-022735",
+                "itemName": "TIMING PULLEY 24T x 8MMP x BORE 25MM",
+                "warehouse": "IN-WEL-N",
+                "uomCode": "Manual",
+                "qty": "5.000000",
+                "location": "HOJIWALA"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "docEntry": 6,
+        "docNum": 6,
+        "docDate": "1/16/2023",
+        "postDate": "1/11/2023",
+        "series": "982",
+        "cardCode": "V00651",
+        "cardName": "SATISH INDUSTRIES",
+        "numAtCard": "140",
+        "grnLines": [
+            {
+                "id": 0,
+                "docEntry": 6,
+                "lineNum": 0,
+                "itemCode": "A-022734",
+                "itemName": "TIMING PULLEY 48T x 8MMP x BORE 25MM",
+                "warehouse": "IN-WEL-N",
+                "uomCode": "Manual",
+                "qty": "5.000000",
+                "location": "HOJIWALA"
+            },
+            {
+                "id": 1,
+                "docEntry": 6,
+                "lineNum": 1,
+                "itemCode": "A-022735",
+                "itemName": "TIMING PULLEY 24T x 8MMP x BORE 25MM",
+                "warehouse": "IN-WEL-N",
+                "uomCode": "Manual",
+                "qty": "5.000000",
+                "location": "HOJIWALA"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "docEntry": 7,
+        "docNum": 7,
+        "docDate": "1/16/2023",
+        "postDate": "1/11/2023",
+        "series": "982",
+        "cardCode": "V00651",
+        "cardName": "SATISH INDUSTRIES",
+        "numAtCard": "140",
+        "grnLines": [
+            {
+                "id": 0,
+                "docEntry": 7,
+                "lineNum": 0,
+                "itemCode": "A-022734",
+                "itemName": "TIMING PULLEY 48T x 8MMP x BORE 25MM",
+                "warehouse": "IN-WEL-N",
+                "uomCode": "Manual",
+                "qty": "5.000000",
+                "location": "HOJIWALA"
+            },
+            {
+                "id": 1,
+                "docEntry": 7,
+                "lineNum": 1,
+                "itemCode": "A-022735",
+                "itemName": "TIMING PULLEY 24T x 8MMP x BORE 25MM",
+                "warehouse": "IN-WEL-N",
+                "uomCode": "Manual",
+                "qty": "5.000000",
+                "location": "HOJIWALA"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "docEntry": 8,
+        "docNum": 8,
+        "docDate": "1/16/2023",
+        "postDate": "1/11/2023",
+        "series": "982",
+        "cardCode": "V00651",
+        "cardName": "SATISH INDUSTRIES",
+        "numAtCard": "140",
+        "grnLines": [
+            {
+                "id": 0,
+                "docEntry": 8,
+                "lineNum": 0,
+                "itemCode": "A-022734",
+                "itemName": "TIMING PULLEY 48T x 8MMP x BORE 25MM",
+                "warehouse": "IN-WEL-N",
+                "uomCode": "Manual",
+                "qty": "5.000000",
+                "location": "HOJIWALA"
+            },
+            {
+                "id": 1,
+                "docEntry": 8,
+                "lineNum": 1,
+                "itemCode": "A-022735",
+                "itemName": "TIMING PULLEY 24T x 8MMP x BORE 25MM",
+                "warehouse": "IN-WEL-N",
+                "uomCode": "Manual",
+                "qty": "5.000000",
+                "location": "HOJIWALA"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "docEntry": 9,
+        "docNum": 9,
+        "docDate": "1/16/2023",
+        "postDate": "1/11/2023",
+        "series": "982",
+        "cardCode": "V00651",
+        "cardName": "SATISH INDUSTRIES",
+        "numAtCard": "140",
+        "grnLines": [
+            {
+                "id": 0,
+                "docEntry": 9,
+                "lineNum": 0,
+                "itemCode": "A-022734",
+                "itemName": "TIMING PULLEY 48T x 8MMP x BORE 25MM",
+                "warehouse": "IN-WEL-N",
+                "uomCode": "Manual",
+                "qty": "5.000000",
+                "location": "HOJIWALA"
+            },
+            {
+                "id": 1,
+                "docEntry": 9,
+                "lineNum": 1,
+                "itemCode": "A-022735",
+                "itemName": "TIMING PULLEY 24T x 8MMP x BORE 25MM",
+                "warehouse": "IN-WEL-N",
+                "uomCode": "Manual",
+                "qty": "5.000000",
+                "location": "HOJIWALA"
+            }
+        ]
+    }
+]
